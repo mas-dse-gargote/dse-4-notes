@@ -1,5 +1,6 @@
 # DSE 200  
-## Python setup  
+## Python setup 
+It looks like there are two options for this class, either use a python interpreter on your host or runt
 * Pre-requisites
     * Python (so far, it looks like we only rely on version 2.X libraries)
     * Pip (download get-py.py and run `python get-py.py`)
