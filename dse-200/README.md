@@ -1,5 +1,5 @@
-#DSE 200
-##Python setup
+# DSE 200  
+## Python setup  
 * Pre-requisites
     * Python (so far, it looks like we only rely on version 2.X libraries)
     * Pip (download get-py.py and run `python get-py.py`)
